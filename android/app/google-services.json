@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793692850186",
+    "project_id": "notification-2f0ef",
+    "storage_bucket": "notification-2f0ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793692850186:android:88fc3082729967c94bf7f3",
+        "android_client_info": {
+          "package_name": "com.example.vchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy-oH1cGVw4DoUUcXwU2o11d464R4wtr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
